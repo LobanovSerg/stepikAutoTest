@@ -1,3 +1,7 @@
+# ------------------------------------------------
+# task: using the find_elements_by method
+# ------------------------------------------------
+
 from selenium import webdriver
 import time
 

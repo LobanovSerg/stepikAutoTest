@@ -1,3 +1,7 @@
+# -------------------------------
+# task: uniqueness selectors
+# -------------------------------
+
 from selenium import webdriver
 import time
 

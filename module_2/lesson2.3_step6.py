@@ -1,3 +1,7 @@
+# -----------------------------
+# task: switch to a new tab
+# -----------------------------
+
 from selenium import webdriver
 from math import log, sin
 

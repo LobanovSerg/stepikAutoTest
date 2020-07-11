@@ -1,3 +1,7 @@
+# ------------------------------------
+# task: search with get_attribute
+# ------------------------------------
+
 from selenium import webdriver
 import time
 import math

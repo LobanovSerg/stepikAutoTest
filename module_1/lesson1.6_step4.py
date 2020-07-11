@@ -1,3 +1,7 @@
+# --------------------------------------------
+# task: finding elements using Selenium
+# --------------------------------------------
+
 from selenium import webdriver
 import time
 import math

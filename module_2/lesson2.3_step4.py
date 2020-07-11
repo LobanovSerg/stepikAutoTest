@@ -1,3 +1,7 @@
+# ---------------------
+# task: alert accept
+# ---------------------
+
 from selenium import webdriver
 from math import *
 import time
