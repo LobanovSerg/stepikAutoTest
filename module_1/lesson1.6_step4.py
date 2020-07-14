@@ -23,7 +23,7 @@ try:
     input3.send_keys("Stewjon")
     input4 = browser.find_element_by_id('country')
     input4.send_keys("Coruscant")
-    button = browser.find_element_by_xpath("//button[text()='Submit']]")
+    button = browser.find_element_by_xpath("//button[text()='Submit']")
     button.click()
 
 finally:
