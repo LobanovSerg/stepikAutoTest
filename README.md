@@ -21,6 +21,7 @@ A basic course for beginner testers, which will teach you how to write automated
 
 + Module 3: Test Frameworks
     * 3.2 Web application testing and test frameworks
+    * 3.6 PyTest - parameterization, configuration, plugins
 
 ***
 
